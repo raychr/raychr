@@ -57,7 +57,7 @@
 
     
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="coding-gif" width="250" src="https://github.com/raychr/raychr/blob/main/gif1.gif">
+<img align="right" alt="coding-gif" width="230" src="https://github.com/raychr/raychr/blob/main/gif1.gif">
 
 
 <!-- about me -->
