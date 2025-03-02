@@ -21,9 +21,9 @@
 
 
 <!-- MasterHead -->
-<img align="center" alt="coding-gif" width="1920" src="https://github.com/raychr/raychr/blob/main/gatinho.jpeg">
 
 
+<img align="center" alt="coding-gif" width="1920" src="https://github.com/raychr/raychr/blob/main/footer.jpeg">
 
 
 <!--<h1 align="left">
@@ -160,8 +160,9 @@
 
 
 <!-- ending-->
+<img align="center" alt="coding-gif" width="1920" src="https://github.com/raychr/raychr/blob/main/foto">
 
-<img align="center" alt="coding-gif" width="1920" src="https://github.com/raychr/raychr/blob/main/footer.jpeg">
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
