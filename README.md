@@ -58,7 +58,7 @@
 
     
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="coding-gif" width="400" src="https://github.com/raychr/raychr/blob/main/perfil.png">
+<img align="right" alt="coding-gif" width="250" src="https://github.com/raychr/raychr/blob/main/perfil.png">
 
 
 <!-- about me -->
@@ -95,9 +95,9 @@
 <h3 align="center">⚡ Github Status</h3>
 <br>
 <div align="center">
-<img width="380" src="https://github-readme-stats.vercel.app/api?username=raychr&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=raychr&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
 
-  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raychr&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raychr&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
 <br/><br/>
