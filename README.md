@@ -20,7 +20,7 @@
 
 <!-- MasterHead -->
 <a href="https://github.com/raychr">
-  <img src="https://github.com/raychr/raychr/blob/main/master.png" alt="Master Image" style="width:auto; height:auto"/>
+  <img src="[https://github.com/raychr/raychr/blob/main/master.png](https://github.com/raychr/raychr/blob/main/img/master.jpg)" alt="Master Image" style="width:auto; height:auto"/>
 </a>
 
 <!-- Greeting -->
