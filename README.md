@@ -20,7 +20,7 @@
 
 <!-- MasterHead -->
 <a href="https://github.com/raychr">
-  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+  <img src="file:///C:/Users/rayan/OneDrive/Imagens/Saved%20Pictures/wallhaven-3z2j6d.png" alt="Fallout GIF" style="width:auto; height:auto"/>
 </a>
 
 <!-- Greeting -->
