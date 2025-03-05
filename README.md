@@ -1,34 +1,8 @@
-<!--
-<div align="center">
-  <a href="#">
-    <img 
-      width="100%" 
-      src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
-    />
-  </a>
-  <br>
--->
-
-<!--
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
-    width="100%" 
-  />
-</p>
--->
-
-
 
 <!-- MasterHead -->
 
 
 <img align="center" alt="coding-gif" width="1920" src="https://github.com/raychr/raychr/blob/main/footer.jpeg">
-
-
-<!--<h1 align="left">
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
-
 
 <!-- Greeting -->
 </h1>
