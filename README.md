@@ -44,7 +44,7 @@
 <h4> 
   💻 Currently studying Computer Science, focused on improving my computational logic and programming skills. </br>
 🌍 Interested in Web Development, Databases, and Game Development. </br>
-🚀 Always eager to learn and grow in the tech world!</h4> <div align="left"> 
+</h4> <div align="left"> 
 
 
   
