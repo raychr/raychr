@@ -68,3 +68,10 @@ Computer Science student focused on frontend development and technical support, 
  
 <div align="center"> 
 </div>
+</div>
+
+---
+
+## Statistics
+
+---
