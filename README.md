@@ -83,5 +83,5 @@ Computer Science student focused on frontend development and technical support, 
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://github.com/raychr/raychr/blob/9d79c533a1451ec9ea8caec7f4272421ce835ce4/footer.jpg" width="100%" alt="banner"/>
+  <img src="" width="100%" alt="banner"/>
 </div>
