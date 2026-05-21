@@ -72,6 +72,11 @@ Computer Science student focused on frontend development and technical support, 
 
 ---
 
-## Statistics
+## Contribution Graph
+<div align="center">
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raychr&bg_color=0d0d0d&color=822a17&line=822a17&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=822a17)](https://github.com/raychr) 
+
+</div>
 
 ---
