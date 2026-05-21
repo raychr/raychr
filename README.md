@@ -34,15 +34,15 @@ Computer Science student focused on frontend development and technical support, 
 <img align="right" width="240px" src="https://github.com/raychr/raychr/blob/d84b2289a1a659b94fd3a31e8d43862c4c62f242/charpng.jpg" alt="Bloodborne Hunter"/>
 
 ```
-◈  Class     →  Frontend Raider / Full-Stack Apprentice
-◈  Origin    →  Brazil 🇧🇷
-◈  Expedition →  Digital Ruins & Ancient Bugs
-◈  Arsenal   →  JavaScript, React, Next, CSS, HTML
-◈  Traits    →  UI Design, Problem Solving, Tech Support
-◈  Quest Log  →  Building immersive interfaces and solving forgotten bugs
-◈  Status     →  Raiding repositories. Escaping deadline traps.
-```
+⺞  Class      →  Frontend Raider / Full-Stack Apprentice
+⺞  Origin     →  Brazil 🇧🇷
+⺞  Expedition →  Digital Ruins & Ancient Bugs
+⺞  Arsenal    →  JavaScript, React, Next, CSS, HTML
+⺞  Traits     →  UI Design, Problem Solving, Tech Support
+⺞  Quest Log  →  Building immersive interfaces and solving forgotten bugs
+⺞  Status     →  Raiding repositories. Escaping deadline traps.
 
+```
 <br clear="right"/>
 
 ---
@@ -80,3 +80,8 @@ Computer Science student focused on frontend development and technical support, 
 </div>
 
 ---
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://github.com/raychr/raychr/blob/9d79c533a1451ec9ea8caec7f4272421ce835ce4/footer.jpg" width="100%" alt="banner"/>
+</div>
