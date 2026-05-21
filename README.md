@@ -4,7 +4,7 @@
 </div>
 <!-- TITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IM+Fell+English+SC&pause=1000&color=99b6a8&width=435&lines=Frontend+Developer+Student+;That's+Right%2C+Run+You+Bastards!;I+Hate+Tombs!" alt="Typing SVG" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=IM+Fell+English+SC&size=30&pause=1000&color=822a17&width=435&lines=Frontend+Developer+Student+;That's+Right%2C+Run+You+Bastards!;I+Hate+Tombs!" alt="Typing SVG" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -12,15 +12,13 @@
 <!-- CONTACT -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-99b6a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raychrs/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-822a17?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raychrs/)
 
 </div>
 
-<br/>
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=raychr&style=flat-square&color=99b6a8&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=raychr&style=flat-square&color=822a17&label=PROFILE+VIEWS)
 
 </div>
 
@@ -52,16 +50,21 @@ Computer Science student focused on frontend development and technical support, 
 ## Technical Skills
 
 <div align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" /> 
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> 
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /> 
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> 
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" /> 
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> 
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" /> 
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" alt="Canva" /> 
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" /> 
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" /> 
-</div>
+  <img src="https://img.shields.io/badge/javascript-822a17?logo=javascript" /> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/css-822a17?logo=css">
+  <img src="https://img.shields.io/badge/html5-822a17.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/react-822a17?logo=react">
+  <img alt="Static Badge" src="https://img.shields.io/badge/next.js-822a17?logo=nextdotjs">
+  <img src="https://img.shields.io/badge/figma-822a17.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" /> 
+  <img src="https://img.shields.io/badge/Canva-822a17.svg?style=flat-square&logo=Canva&logoColor=white" alt="Canva" /> 
+  <img src="https://img.shields.io/badge/python-822a17?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" /> 
+  <img src="https://img.shields.io/badge/C-822a17?logo=c" alt="C" /> 
+  <img src="https://img.shields.io/badge/mysql-822a17.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> 
+  <img src="https://img.shields.io/badge/sqlite-822a17.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" /> 
+  <img src="https://img.shields.io/badge/postgres-822a17.svg?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" /> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/apache-822a17?logo=apache">
+
+
+ 
 <div align="center"> 
 </div>
