@@ -86,7 +86,7 @@ Computer Science student focused on frontend development and technical support, 
 |:---:|:---|:---:|
 | ⺞ | React and Nest: implementing a Backend for Front-end - Alura | ✅ Complete |
 | ⺞ | JavaScript: building dynamic pages - Alura | ✅ Complete |
-| ⺞ | Front-end React Developer Career - Checkpoint - Level 1 - Alura | ✅ Complete |
+| ⺞ | Front-end React Developer Career - Level 1 - Alura | ✅ Complete |
 ---
 
 
